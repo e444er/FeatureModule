@@ -49,7 +49,4 @@ dependencies {
     implementation(Dependencies.shimmer_koleton)
 
     implementation(project(":data:movie"))
-    implementation(project(":common_ui_res"))
-
-    kaptAndroidTest (Dependencies.hilt_android_compiler)
 }

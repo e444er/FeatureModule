@@ -42,6 +42,4 @@ dependencies {
     kapt (Dependencies.hilt_kapt)
 
     implementation(Dependencies.paging)
-
-    kaptAndroidTest (Dependencies.hilt_android_compiler)
 }

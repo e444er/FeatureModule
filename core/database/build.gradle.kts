@@ -42,6 +42,4 @@ dependencies {
 
     implementation (Dependencies.hilt_android)
     kapt (Dependencies.hilt_kapt)
-
-    kaptAndroidTest (Dependencies.hilt_android_compiler)
 }

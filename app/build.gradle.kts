@@ -58,4 +58,9 @@ dependencies {
 
     implementation (Dependencies.navigation_fragment_ktx)
     implementation (Dependencies.navigation_ui_ktx)
+
+    implementation(project(":feature:popular"))
+    implementation(project(":feature:detail"))
+    implementation(project(":feature:favorite"))
+    implementation(project(":core:common"))
 }

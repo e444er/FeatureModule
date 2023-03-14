@@ -14,7 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FeatureModule"
 include ':app'
-include ':common_ui_res'
 include ':core:common'
 include ':core:database'
 include ':core:network'

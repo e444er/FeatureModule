@@ -50,7 +50,4 @@ dependencies {
 
     implementation(project(":data:movie"))
     implementation(project(":core:common"))
-    implementation(project(":common_ui_res"))
-
-    kaptAndroidTest (Dependencies.hilt_android_compiler)
 }
