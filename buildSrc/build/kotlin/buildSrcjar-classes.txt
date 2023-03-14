@@ -1,0 +1,1 @@
+C:\Users\droid\AndroidStudioProjects\FeatureModule2\buildSrc\build\classes\kotlin\main\AndroidConfig.class;C:\Users\droid\AndroidStudioProjects\FeatureModule2\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Users\droid\AndroidStudioProjects\FeatureModule2\buildSrc\build\classes\kotlin\main\Versions.class
